@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayout" type="id" />
+    <item name="option4" type="id" />
+    <item name="next" type="id" />
+    <item name="option3" type="id" />
+    <item name="option2" type="id" />
+    <item name="option1" type="id" />
+    <item name="questionView" type="id" />
+    <item name="TimeLeftTextView" type="id" />
+    <item name="timerView" type="id" />
+    <item name="questionCounterView" type="id" />
+</resources>

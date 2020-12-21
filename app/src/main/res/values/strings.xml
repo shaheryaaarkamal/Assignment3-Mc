@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="hello_blank_fragment">hello blank fragment</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="restart">Restart</string>
+    <string name="choose_option_4" />
+    <string name="choose_option_3" />
+    <string name="choose_option_2" />
+    <string name="next" />
+    <string name="choose_option_1" />
+    <string name="question_here" />
+    <string name="time_left" />
+
+</resources>
